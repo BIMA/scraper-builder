@@ -13,3 +13,8 @@ Welcome to Scraper Builder's documentation!
    pages/configuration-setup
    pages/xpath-tutorial
 
+Related Links
+=============
+
+* Source code: https://github.com/BIMA/scraper-builder/blob/main/main.py
+
